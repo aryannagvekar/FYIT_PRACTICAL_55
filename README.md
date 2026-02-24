@@ -6,9 +6,9 @@ Roll No: Your Roll Number
 ## Subject
 Programming in C  
 ## Practical 1
-Title: (Write Practical 1 title here)
+Title: ( Practical 1)
 ## Practical 2
-Title: (Write Practical 2 title here)
+Title: ( Practical 2)
 ## Steps to Run the Program
 1. Open terminal / command prompt
 2. Compile the program:
